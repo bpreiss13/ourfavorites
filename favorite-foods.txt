@@ -4,5 +4,9 @@ Spinach
 Egg Whites
 Danish
 Ramen
+<<<<<<< HEAD
 Soup
 Pork
+=======
+Rice
+>>>>>>> it's rice
